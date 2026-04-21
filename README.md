@@ -207,5 +207,3 @@ MIT
 - [Docker systemd 最佳实践](https://systemd.io/CONTAINER_INTERFACE/)
 
 ---
-
-这份说明包含了构建、运行、SSH 配置、常见问题等完整内容，适合上传至 GitHub。需要调整格式或补充内容吗？

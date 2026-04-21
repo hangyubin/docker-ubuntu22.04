@@ -1,6 +1,3 @@
-以下是这份 Dockerfile 的使用说明，适合上传至 GitHub：
-
----
 
 # Ubuntu 22.04 Systemd Docker Container
 
